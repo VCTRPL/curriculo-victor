@@ -2,7 +2,7 @@
 
 Site de portfólio profissional com seções de **Sobre Mim** (PT/EN), **Projetos** (linha do tempo), **Experiências** e **Contato** (ícones clicáveis e formulário com envio por e-mail).
 
-**Site publicado:** `LINK_DO_SITE_AQUI`
+**Site publicado:** `https://curriculo-victor-eta.vercel.app/`
 
 ---
 
