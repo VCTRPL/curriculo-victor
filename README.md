@@ -56,8 +56,8 @@ Pré-requisito: **Node.js 18+** e npm.
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/VCTRPL/portfolio.git
-cd portfolio-victor
+git clone https://github.com/VCTRPL/curriculo-victor.git
+cd curriculo-victor
 
 # 2. Instale as dependências
 npm install
